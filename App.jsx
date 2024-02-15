@@ -8,49 +8,49 @@ export default function App() {
       id: "1",
       work: "Minecraft API",
       img: require('./src/img/mine.png'),
-      description: "API for Minecraft",
+      description: "API for Minecraft.",
       tecnologies: "React.js, JS, HTML5, css, Node.js",
     },
     {
       id: "2",
       work: "Fortnite API",
       img: require('./src/img/fort.png'),
-      description: "API for Fortnite",
+      description: "API for Fortnite.",
       tecnologies: "React.js, JS, HTML5, css, Node.js",
     },
     {
       id: "1",
       work: "Minecraft API",
       img: require('./src/img/mine.png'),
-      description: "API for Minecraft",
+      description: "API for Minecraft.",
       tecnologies: "React.js, JS, HTML5, css, Node.js",
     },
     {
       id: "1",
       work: "Minecraft API",
       img: require('./src/img/mine.png'),
-      description: "API for Minecraft",
+      description: "API for Minecraft.",
       tecnologies: "React.js, JS, HTML5, css, Node.js",
     },
     {
       id: "1",
       work: "Minecraft API",
       img: require('./src/img/mine.png'),
-      description: "API for Minecraft",
+      description: "API for Minecraft.",
       tecnologies: "React.js, JS, HTML5, css, Node.js",
     },
     {
       id: "1",
       work: "Minecraft API",
       img: require('./src/img/mine.png'),
-      description: "API for Minecraft",
+      description: "API for Minecraft.",
       tecnologies: "React.js, JS, HTML5, css, Node.js",
     },
     {
       id: "1",
       work: "Minecraft API",
       img: require('./src/img/mine.png'),
-      description: "API for Minecraft",
+      description: "API for Minecraft.",
       tecnologies: "React.js, JS, HTML5, css, Node.js",
     },
 
@@ -59,7 +59,7 @@ export default function App() {
   return (
     <View className="bg-slate-50 min-h-screen flex flex-col justify-center items-center">
       <View className="py-24 sm:py-32 text-center">
-        <Image source={require('./src/img/download.png')} style={{ width: 64, height: 64 }} className="inline-block h-24 w-24 rounded-full ring-2 ring-white mb-4"></Image>
+        <Image source={require('./src/img/eu.jpg')} style={{ width: 64, height: 64 }} className="inline-block h-24 w-24 rounded-full ring-2 ring-white mb-4"></Image>
         <Text className="text-2xl font-bold">Matheus Henrique de Carvalho Côcco</Text>
         <Text className="text-lg mb-2">TDS1 2° ano</Text>
         <Text className="text-gray-700">Sou um aluno de desenvolvimento de sistemas do Senai Valinhos.</Text>
