@@ -72,26 +72,7 @@ export default function App() {
           )}
         </View>
       </ScrollView>
-      <View className="bg-white p-4 rounded-md shadow-md mb-4 w-full max-w-md">
-        <Text>Contato:</Text>
-        <View className="flex flex-row justify-center items-center">
-          <Text className="text-gray-700">
-            Email:
-          </Text>
-          <Text className="text-gray-700">
-            sla@gmail
-          </Text>
-        </View>
-        <View className="flex flex-row justify-center items-center">
-          <Text className="text-gray-700">
-            Telefone:
-          </Text>
-          <Text className="text-gray-700">
-            999999999
-          </Text>
-        </View>
-      </View>
-      
+
       <StatusBar style="auto" />
     </View>
 
