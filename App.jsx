@@ -27,6 +27,7 @@ export default function App() {
 
   return (
     <View className="bg-slate-500 min-h-screen flex flex-col justify-center items-center">
+      <ScrollView className="p-4 w-full">
       <View className="p-12 sm:py-32 flex flex-col justify-center items-center">
         <Image
           source={require('./src/img/eu.jpg')}
@@ -75,6 +76,7 @@ export default function App() {
 
 
       <StatusBar style="auto" />
+    </ScrollView>
     </View>
 
   );
